@@ -72,3 +72,23 @@ body {
   #logo {
     padding-left: 10px; 
   }
+
+.slider .slides {
+  background-color: transparent;
+  margin: 0;
+  height: 200px;
+}
+
+.slider .slides li img {
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size:100% auto;
+  background-repeat: no-repeat;
+  padding: 1px;
+  max-width : 100%;
+}
+
+html {
+    font-family: 'Oswald', sans-serif;
+  }
