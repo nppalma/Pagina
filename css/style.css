@@ -91,4 +91,18 @@ body {
 
 html {
     font-family: 'Oswald', sans-serif;
+    font-size: 18px;
   }
+
+.list-item-card {
+  font-size: 15px;
+}
+
+.p-card {
+  font-size: 15px;
+  line-height: 1.2rem;
+}
+
+.card-title-size {
+  font-size: 7px;
+}
